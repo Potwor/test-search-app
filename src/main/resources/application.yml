@@ -1,0 +1,6 @@
+logging:
+  level:
+    m.bowzyk.shopsearch: DEBUG
+app:
+  googleApiKey: ${GOOGLE_API_KEY:test}
+
